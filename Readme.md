@@ -5,7 +5,7 @@ Useful modules for go
 
 Enables the pprof debugger in a single line
 
-```
+```go
 import "github.com/rschmukler/go-tools/debug"
 
 debug.Debug()
